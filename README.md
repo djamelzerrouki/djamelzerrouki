@@ -1,4 +1,4 @@
-## Hello, I'm [Djamel Zerrouki !](https://djamelzerrouki.github.io) 👋
+## Hello, I'm [Djamel Zerrouki !](https://djamel.netlify.app/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djamelzerrouki&label=Views&color=blue&style=plastic" alt="djamelzerrouki" /> </p>
 
