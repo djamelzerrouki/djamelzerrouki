@@ -46,7 +46,7 @@ As the saying goes: "Two heads are better than one".
 [![Twitter: djamelzerrouki](https://img.shields.io/twitter/follow/DjamelZerrouki5?style=social)](https://twitter.com/DjamelZerrouki5)
 [![Linkedin: djamelzerrouki](https://img.shields.io/badge/-djamelzerrouki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/djamel-zerrouki-0785b6161/)](https://www.linkedin.com/in/djamel-zerrouki-0785b6161/)
 [![GitHub djamelzerrouki](https://img.shields.io/github/followers/djamelzerrouki?label=follow&style=social)](https://github.com/djamelzerrouki)
-[![website](https://img.shields.io/badge/PortfolioWebsite-djamelzerrouki.github.io-2648ff?style=flat-square&logo=google-chrome)](https://djamelzerrouki.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-djamel.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://djamel.netlify.app/)
 
 
 **Languages and Tools:**  
