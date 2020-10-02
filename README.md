@@ -63,7 +63,7 @@ As the saying goes: "Two heads are better than one".
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djamelzerrouki&show_icons=true&theme=radical" alt="Pawan's github stats"/>
 </a>
 <a href="https://github.com/djamelzerrouki">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamelzerrouki&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamelzerrouki&layout=compact&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/djamelzerrouki/alhadithalnawawiforty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=djamelzerrouki&repo=alhadithalnawawiforty&theme=light" />
