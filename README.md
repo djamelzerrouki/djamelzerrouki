@@ -62,9 +62,11 @@ As the saying goes: "Two heads are better than one".
 <a href="https://github.com/djamelzerrouki">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=djamelzerrouki&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
 </a>
+<a href="https://github.com/djamelzerrouki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djamelzerrouki&layout=compact" />
+</a>
 <a href="https://github.com/djamelzerrouki/alhadithalnawawiforty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=djamelzerrouki&repo=alhadithalnawawiforty&theme=light" />
-
 </a>
 <a href="https://github.com/djamelzerrouki/DraHmi">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=djamelzerrouki&repo=DraHmi&theme=light" />
