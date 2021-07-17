@@ -28,7 +28,7 @@
 
 
 ### About
-Hello! I am Djamel Zerrouki, 25 years old, a Software Engineer 💡, Full-stack Developer 📱💻🌎.
+Hello! I am Djamel Zerrouki, 26 years old, a Software Engineer 💡, Full-stack Developer 📱💻🌎.
 
 Programmer with good knowledge of desktop, web and mobile application.
 I like spending time repairing a little detail and improving web and mobile applications . As I love working in a team, you'll learn faster and much more.
